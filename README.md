@@ -1,4 +1,4 @@
-# Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project
+# Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages
 ## Authors:
 ### Tanya Yadav
 ### Shaina Mehta
